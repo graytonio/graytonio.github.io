@@ -1,6 +1,6 @@
 ---
 title: Starting My Homelab Bible
-date: YYY-MM-DD HH:MM:SS
+date: 2022-08-18
 categories: [Homelab, Ansible]
 tags: [homelab, ansible, automation]
 ---
