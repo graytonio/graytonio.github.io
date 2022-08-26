@@ -1,7 +1,7 @@
 ---
 title: Starting My Homelab Bible
 date: 2022-08-18
-categories: [Homelab, Ansible]
+categories: [Homelab, Ansible, HomelabBible]
 tags: [homelab, ansible, automation]
 ---
 
