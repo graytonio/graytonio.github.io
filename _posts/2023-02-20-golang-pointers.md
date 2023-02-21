@@ -1,11 +1,9 @@
 ---
-title: Understanding Goland Pointers
+title: Understanding Golang Pointers
 date: 2023-02-20
 categories: [Programming, Golang]
 tags: [programming, golang, fundamentals, pointers, basics]
 ---
-
-# Understanding Golang Pointers
 
 Even if you are familiar with a language that has pointers like C pointers in go may still give you some trouble. This short guide will assume you have no previous knowledge of pointers to give you a ground up understanding of what they are and how they are used in golang.
 
