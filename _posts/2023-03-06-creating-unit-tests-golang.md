@@ -5,7 +5,7 @@ categories: [Programming, Golang]
 tags: [programming, golang, devops, testing, unittests]
 ---
 
-Writing unit tests for you functions is an important step in ensuring that the code you have written is creating the output you are expecting.  I'll go over a few different functions in go and how you can go about writing good unit tests for them using go recommeneded table based testing method.
+Writing unit tests for you functions is an important step in ensuring that the code you have written is creating the output you are expecting.  I'll go over a few different functions in go and how you can go about writing good unit tests for them using go recommended table based testing method.
 
 ## Simple Pure Functions
 
